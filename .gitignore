@@ -1,0 +1,6 @@
+# 本机工具与运行时数据，不进仓库
+tools/
+QQ/
+qq-test/
+.scratch/
+.dsh/
